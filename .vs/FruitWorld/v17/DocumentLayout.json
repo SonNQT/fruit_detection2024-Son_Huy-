@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_fruit_thanh_toan\\FruitWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|d:\\project_fruit_thanh_toan\\fruitworld\\gui\\formthemthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\formthemthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|D:\\Project_fruit_thanh_toan\\FruitWorld\\gui\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|D:\\Project_fruit_thanh_toan\\FruitWorld\\gui\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|d:\\project_fruit_thanh_toan\\fruitworld\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|d:\\project_fruit_thanh_toan\\fruitworld\\gui\\formthemthanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\formthemthanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|D:\\Project_fruit_thanh_toan\\FruitWorld\\gui\\formthemthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\formthemthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|d:\\project_fruit_thanh_toan\\fruitworld\\gui\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3358F5-D56F-4741-B7E3-860B9B904BF2}|FruitWorld.csproj|solutionrelative:gui\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "qrcode.cs [Design]",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\qrcode.cs",
+              "RelativeDocumentMoniker": "GUI\\qrcode.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\qrcode.cs [Design]",
+              "RelativeToolTip": "GUI\\qrcode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:40:27.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shoppingcart.cs [Design]",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\shoppingcart.cs",
+              "RelativeDocumentMoniker": "GUI\\shoppingcart.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\shoppingcart.cs [Design]",
+              "RelativeToolTip": "GUI\\shoppingcart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:39:18.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formdangnhap.cs",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formdangnhap.cs",
+              "RelativeDocumentMoniker": "GUI\\formdangnhap.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formdangnhap.cs",
+              "RelativeToolTip": "GUI\\formdangnhap.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:16:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formthemthanhvien.Designer.cs",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\formthemthanhvien.Designer.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.Designer.cs",
+              "RelativeToolTip": "GUI\\formthemthanhvien.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:13:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formthemthanhvien.cs [Design]",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.cs",
+              "RelativeDocumentMoniker": "GUI\\formthemthanhvien.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.cs [Design]",
+              "RelativeToolTip": "GUI\\formthemthanhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:52:54.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formthemthanhvien.cs",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.cs",
+              "RelativeDocumentMoniker": "GUI\\formthemthanhvien.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formthemthanhvien.cs",
+              "RelativeToolTip": "GUI\\formthemthanhvien.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:54:36.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formdangnhap.Designer.cs",
+              "DocumentMoniker": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formdangnhap.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\formdangnhap.Designer.cs",
+              "ToolTip": "D:\\Project_fruit_thanh_toan\\FruitWorld\\GUI\\formdangnhap.Designer.cs",
+              "RelativeToolTip": "GUI\\formdangnhap.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:14:15.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
